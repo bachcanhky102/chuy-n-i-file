@@ -1,0 +1,5 @@
+{
+  "name": "Gemini DocuConverter",
+  "description": "Ứng dụng chuyển đổi hình ảnh và PDF sang văn bản định dạng (dạng Word/Markdown) sử dụng Google Gemini API. Hỗ trợ upload và dán ảnh trực tiếp.",
+  "requestFramePermissions": []
+}
